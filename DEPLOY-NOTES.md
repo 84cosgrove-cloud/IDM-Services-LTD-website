@@ -15,7 +15,7 @@ Drag the whole folder into Netlify (or push to your connected repo) exactly as b
      falls back to opening the visitor's email app — nothing is lost
 
 2. **When you buy a custom domain** — search-and-replace
-   `https://dynamic-gelato-354a59.netlify.app` with your new domain in:
+   `https://www.idmservicesltd.com` with your new domain in:
    - every .html file (canonical + og:url + JSON-LD)
    - sitemap.xml, robots.txt, llms.txt
    Then submit the sitemap in Google Search Console (free) to get indexed quickly.

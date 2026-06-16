@@ -4,7 +4,7 @@ Static marketing site for IDM Services NW, a specialist telecoms and network
 infrastructure engineering company based in the Liverpool region, delivering
 nationwide across the UK.
 
-**Live site:** https://dynamic-gelato-354a59.netlify.app
+**Live site:** https://www.idmservicesltd.com
 
 ## Stack
 Plain HTML, CSS and vanilla JavaScript. No build step — what's in the repo is
@@ -32,7 +32,7 @@ Edit the HTML/CSS/JS files directly and commit. Netlify redeploys automatically
 on every push to the main branch once the repo is linked.
 
 ## After moving to a custom domain
-Find-and-replace `https://dynamic-gelato-354a59.netlify.app` with the new domain
+Find-and-replace `https://www.idmservicesltd.com` with the new domain
 across all .html files, sitemap.xml, robots.txt and llms.txt. Then submit the
 sitemap in Google Search Console.
 

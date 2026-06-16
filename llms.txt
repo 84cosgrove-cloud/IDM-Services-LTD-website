@@ -20,8 +20,8 @@
 
 ## Pages
 
-- [Home](https://dynamic-gelato-354a59.netlify.app/): Company overview and core services
-- [Services](https://dynamic-gelato-354a59.netlify.app/services.html): Full service breakdown — telecoms, data centre, commercial/industrial, rail
-- [Sectors](https://dynamic-gelato-354a59.netlify.app/sectors.html): Sectors supported across the UK
-- [About](https://dynamic-gelato-354a59.netlify.app/about.html): Company background and operating model
-- [Contact](https://dynamic-gelato-354a59.netlify.app/contact.html): Enquiries and 24/7 response
+- [Home](https://www.idmservicesltd.com/): Company overview and core services
+- [Services](https://www.idmservicesltd.com/services.html): Full service breakdown — telecoms, data centre, commercial/industrial, rail
+- [Sectors](https://www.idmservicesltd.com/sectors.html): Sectors supported across the UK
+- [About](https://www.idmservicesltd.com/about.html): Company background and operating model
+- [Contact](https://www.idmservicesltd.com/contact.html): Enquiries and 24/7 response
