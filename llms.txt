@@ -1,0 +1,27 @@
+# IDM Services NW
+
+> IDM Services NW is a specialist telecoms and network infrastructure engineering company headquartered in the Liverpool region, North West England, delivering nationwide across the UK. Family-run, with deep experience in fibre optic splicing, testing, structured cabling, and mission-critical network delivery.
+
+## What we do
+
+- Telecoms services: fibre optic splicing, installation and OTDR testing; cable installation and termination; structured and copper cabling; fault finding, repair and maintenance; 24/7 rapid response. Experienced in Openreach FTTP and PIA build programmes.
+- Data centre services: rack and structured cabling deployment, fibre infrastructure, testing, certification and commissioning, network reconfiguration and upgrades, fault diagnosis, 24/7 just-in-time response.
+- MDU (multi-dwelling unit) delivery: internal fibre installation for apartment blocks and multi-tenant buildings, including survey, install, splice, test and certification.
+- Commercial and industrial: offices, retail, warehouses, manufacturing, multi-site estates — new installations, moves and changes, emergency repair.
+- Rail infrastructure: network cabling installation, testing, certification, reconfiguration and upgrades aligned with rail sector safety requirements.
+
+## Key facts
+
+- Headquarters: Liverpool region, North West England
+- Coverage: Nationwide (UK)
+- Availability: 24/7 rapid response and on-call engineering
+- Quality: Working towards ISO 9001 accreditation; digitally managed delivery (electronic workforce management, eDatachase Atom Ultima)
+- Contact: info@idmservicesltd.com
+
+## Pages
+
+- [Home](https://dynamic-gelato-354a59.netlify.app/): Company overview and core services
+- [Services](https://dynamic-gelato-354a59.netlify.app/services.html): Full service breakdown — telecoms, data centre, commercial/industrial, rail
+- [Sectors](https://dynamic-gelato-354a59.netlify.app/sectors.html): Sectors supported across the UK
+- [About](https://dynamic-gelato-354a59.netlify.app/about.html): Company background and operating model
+- [Contact](https://dynamic-gelato-354a59.netlify.app/contact.html): Enquiries and 24/7 response

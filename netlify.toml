@@ -1,0 +1,8 @@
+# Netlify configuration for IDM Services NW
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
